@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Organic Product Website**
 
-- 🌱 I’m currently learning **FrameWorks, Courses, etc.**
+- 🌱 I’m currently learning **FrameWorks, Courses, Python, Machine Learning, Databases, etc.**
 
 - 📫 How to reach me **divyanshuchauhan1200@gmail.com**
 
