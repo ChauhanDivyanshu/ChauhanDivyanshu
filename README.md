@@ -1,6 +1,6 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 <h1 align="center">Hi 👋, I'm Divyanshu Chauhan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3> 
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhandivyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="chauhandivyanshu" /> </p>
