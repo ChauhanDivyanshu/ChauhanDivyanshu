@@ -1,30 +1,98 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
-<h1 align="center">Hi 👋, I'm Divyanshu Chauhan</h1>
-<h3 align="center">Full Stack Developer from India</h3> 
-<img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  
+  <h1 align="center">Hi 👋, I'm Divyanshu Chauhan</h1>
+  <h3 align="center">Full Stack Developer | AI Enthusiast | Building TrustLayer AI 🛡️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhandivyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="chauhandivyanshu" /> </p>
+  <img align="right" alt="Coding" width="380" style="border-radius:12px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
-- 🔭 I’m currently working on **SaaS RAG AI Chatbot**
+<br />
 
-- 🌱 I’m currently learning **FrameWorks, AI, Courses, Python, Machine Learning, Databases, etc.**
+---
 
-- 📫 How to reach me **divyanshuchauhan1200@gmail.com**
+### 🧑‍💻 About Me
 
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamdivyanshuchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamdivyanshuchauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_divyanshuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_divyanshuu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gkvian brother's" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gkvian brother's" height="30" width="40" /></a>
+  🔭 I'm currently building <b>TrustLayer AI</b> - India's #1 AI Scam Detection Platform<br/>
+  🌱 I'm currently learning <b>LLMs, RAG, System Design & Machine Learning</b><br/>
+  💬 Ask me about React, Node.js, Python, Full Stack Development & AI<br/>
+  📫 Reach me at: <b>divyanshuchauhan1200@gmail.com</b><br/>
+  ⚡ Fun fact: I can debug code faster than I can debug my life 😄
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhandivyanshu&show_icons=true&locale=en&layout=compact" alt="chauhandivyanshu" /></p>
+### 📊 Stats & Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhandivyanshu&show_icons=true&locale=en" alt="chauhandivyanshu" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chauhandivyanshu&label=Profile%20Views&color=00FFB2&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/chauhandivyanshu?style=for-the-badge&color=0080FF" alt="followers" />
+  <img src="https://img.shields.io/badge/TrustLayer%20AI-Building%20Now-00FFB2?style=for-the-badge" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhandivyanshu&" alt="chauhandivyanshu" /></p>
+<br />
+
+---
+
+### 🛠️ Languages & Tools
+
+✅ All icons are properly organized now, they will never cut or overflow:
+
+| Category | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> |
+
+---
+
+### 📈 GitHub Stats
+
+All stats are properly aligned now, no cut off:
+
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhandivyanshu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&layout=compact" alt="top languages" />
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=chauhandivyanshu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="github stats" />
+  <br />
+  <br />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhandivyanshu&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
+</div>
+
+---
+
+### 🚀 Projects I'm Working On
+
+| Project | Status | Description |
+|---|---|---|
+| 🛡️ **TrustLayer AI** | 🔨 Building | India's #1 AI powered multi-channel scam detection platform. Detect WhatsApp scams, phishing, fake loan apps, UPI fraud in real-time. |
+| 🤖 RAG AI Chatbot | ✅ Completed | Custom SaaS RAG chatbot for enterprise document Q&A |
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/iamdivyanshuchauhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ig_divyanshuu_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@gkvianbrothers" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:divyanshuchauhan1200@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
