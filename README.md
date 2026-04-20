@@ -1,9 +1,9 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
   
   <h1 align="center">Hi 👋, I'm Divyanshu Chauhan</h1>
-  <h3 align="center">Full Stack Developer | AI Enthusiast | Building TrustLayer AI 🛡️</h3>
+  <h3 align="center">Full Stack Developer | AI Enthusiast | Building TrustLayer AI </h3>
 
   <img align="right" alt="Coding" width="380" style="border-radius:12px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
@@ -69,8 +69,8 @@ All stats are properly aligned now, no cut off:
 
 | Project | Status | Description |
 |---|---|---|
-| 🛡️ **TrustLayer AI** | 🔨 Building | India's #1 AI powered multi-channel scam detection platform. Detect WhatsApp scams, phishing, fake loan apps, UPI fraud in real-time. |
-| 🤖 RAG AI Chatbot | ✅ Completed | Custom SaaS RAG chatbot for enterprise document Q&A |
+| **TrustLayer AI** | Building | India's #1 AI powered multi-channel scam detection platform. Detect WhatsApp scams, phishing, fake loan apps, UPI fraud in real-time. |
+| RAG AI Chatbot | Completed | Custom SaaS RAG chatbot for enterprise document Q&A |
 
 ---
 
