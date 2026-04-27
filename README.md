@@ -55,19 +55,19 @@ Demonstrated impact in improving system accuracy, reducing latency, and optimizi
 
 ### RAG AI System Architecture
 User Query
-↓
+-->
 API Layer (FastAPI)
-↓
+-->
 Query Processing & Embedding
-↓
+-->
 Vector DB (pgvector) + Keyword Search (BM25)
-↓
+-->
 Hybrid Retrieval
-↓
+-->
 LLM (API / Local Model)
-↓
+-->
 Response Generation
-↓
+-->
 User Response
 
 **Key Design Decisions:**
