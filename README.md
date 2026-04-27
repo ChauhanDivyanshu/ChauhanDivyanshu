@@ -8,91 +8,151 @@
 
 ## Summary
 
-Full Stack Python Developer with hands-on experience in building scalable web applications and AI-driven systems. Proven ability to work with distributed architectures, optimize performance, and deliver production-ready solutions.
+Full Stack Python Developer and AI Engineer with 2+ years of experience in building high-performance systems and AI-driven applications. Specialized in **RAG-based architectures, LLM integration, and scalable backend engineering**.
 
-Currently focused on developing **AI-powered applications (LLMs, RAG systems)** alongside backend engineering using Python-based frameworks.
-
----
-
-## Current Focus
-
-- Building **AI-powered backend systems using Python**
-- Developing **RAG (Retrieval-Augmented Generation) applications**
-- Working on **LLM integrations and real-world AI use cases**
-- Strengthening expertise in **system design and scalable architecture**
+Demonstrated impact in improving system accuracy, reducing latency, and optimizing infrastructure costs in production environments.
 
 ---
 
 ## Professional Experience
 
-**QA Engineer & Test Trainee**  
-*Magic EdTech*
+### Full Stack Developer (Python + AI)  
+**Infosware Private Limited** | Mar 2026 – Present | Noida, India
 
-- Managed **100+ microservices** and **1000+ servers** in production environments  
-- Monitored distributed systems using **Prometheus, Grafana, ELK Stack**  
-- Identified and resolved system-level issues, improving reliability and uptime  
-- Contributed to **automation, cost optimization, and infrastructure efficiency**  
-- Worked with **AWS cloud environments** and deployment pipelines  
+- Developed end-to-end **RAG-based AI chatbot system** (ingestion → embedding → retrieval → response)
+- Improved response accuracy by **30–40%** using hybrid search (**pgvector + BM25**)
+- Reduced latency by **35%** through optimized retrieval pipelines
+- Integrated **LLM APIs and local models** for intelligent responses
+- Designed scalable backend using **FastAPI** supporting concurrent users
+- Implemented async architecture using **Redis + Celery**, reducing processing time by **50%**
+- Enabled **multilingual AI capabilities**
+- Reduced API cost by **25%** through optimization strategies
+
+---
+
+### QA Software Engineer  
+**Magic EdTech (Tekshapers)** | Apr 2024 – Mar 2026 | Noida, India
+
+- Managed **100+ microservices** and **1000+ servers**
+- Improved testing efficiency by **40%** through automation
+- Reduced defect leakage by **30%**
+- Maintained **99.9% system reliability** during releases
+- Built **Python-based automation pipelines** for EPUB and accessibility validation
+- Worked with **Prometheus, Grafana, ELK Stack** for monitoring and logging
+
+---
+
+### DevOps Intern  
+**AR Electricals** | Feb 2024 – Aug 2024 | Noida, India
+
+- Built CI/CD pipelines using **Jenkins**, reducing deployment time by **70%**
+- Automated workflows reducing manual effort by **50%**
+- Worked with **Docker and AWS (EC2, S3)** for deployment
+
+---
+
+## System Design & Architecture
+
+### RAG AI System Architecture
+User Query
+↓
+API Layer (FastAPI)
+↓
+Query Processing & Embedding
+↓
+Vector DB (pgvector) + Keyword Search (BM25)
+↓
+Hybrid Retrieval
+↓
+LLM (API / Local Model)
+↓
+Response Generation
+↓
+User Response
+
+**Key Design Decisions:**
+- Hybrid search for improved accuracy  
+- Async processing for scalability  
+- Modular architecture for maintainability  
+- Cost optimization via selective LLM calls  
 
 ---
 
 ## Technical Skills
 
 **Languages:**  
-Python, JavaScript, TypeScript, Java, C, C++
-
-**Frontend:**  
-React, Next.js, HTML, CSS, Tailwind CSS
-
-**Backend:**  
-FastAPI, Node.js, Express.js
+Python, JavaScript, TypeScript, Java, SQL, Bash  
 
 **AI/ML:**  
-LLMs, RAG Architecture, NLP Basics, Model Integration
+RAG, LLMs, Prompt Engineering, Embeddings, Vector Search  
+
+**Frameworks:**  
+FastAPI, Flask, Node.js  
 
 **Databases:**  
-PostgreSQL, MySQL, MongoDB
+PostgreSQL (pgvector), MySQL, MongoDB  
 
-**Cloud & Tools:**  
-AWS, Docker, Git, Prometheus, Grafana, ELK Stack
+**Cloud & DevOps:**  
+AWS (EC2, S3), Docker, Jenkins, CI/CD  
+
+**Tools:**  
+Redis, Celery, Prometheus, Grafana, ELK Stack  
 
 ---
 
 ## Key Projects
 
-### TrustLayer AI
-AI-based scam detection platform designed to identify fraudulent patterns and enhance digital security.
-
-- Implemented intelligent detection logic using AI techniques  
-- Designed scalable backend architecture  
-- Focused on real-world fraud detection use cases  
+### RAG AI Chatbot System
+- Built production-grade chatbot using **RAG architecture**
+- Improved response relevance by **35%**
+- Implemented contextual and semantic search
 
 ---
 
-### RAG AI Chatbot
-Context-aware conversational AI system using retrieval-augmented generation.
+### TrustLayer AI
+- AI-based scam detection platform
+- Designed scalable backend and intelligent detection workflows
 
-- Integrated LLMs with custom knowledge retrieval  
-- Built backend APIs for real-time query processing  
-- Improved response accuracy using contextual data  
+---
+
+### CI/CD Deployment Pipeline
+- Reduced deployment time by **80% (30 min → 5 min)**
+- Automated CI/CD workflows using Jenkins and AWS
 
 ---
 
 ## Engineering Strengths
 
-- Scalable backend development using Python  
-- AI system integration and real-world implementation  
-- Strong debugging and problem-solving skills  
-- Experience with distributed systems and monitoring  
-- Clean, maintainable, and production-ready code practices  
+- Scalable backend systems using Python (FastAPI)  
+- AI system design and real-world implementation  
+- Performance optimization (latency, cost, throughput)  
+- Distributed systems monitoring and debugging  
+- Strong DevOps and automation expertise  
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure 2025 – DevOps Professional  
+- Microsoft Introduction to DevOps  
+- TCS iON Career Edge – Young Professional  
+
+---
+
+## Achievements
+
+- Developed automation reducing manual QA effort significantly  
+- Reduced accessibility validation time from **3 days to 2 hours**  
+- Recognized for high-impact delivery and system improvements  
+- Received client appreciation for quality and timely releases  
 
 ---
 
 ## What Sets Me Apart
 
-- Combination of **Backend Engineering + AI Development + System Monitoring**
-- Experience handling **large-scale production environments**
-- Ability to bridge **development and infrastructure (Dev + Ops mindset)**
+- Strong combination of **AI Engineering + Backend Development + DevOps + QA**
+- Experience with **large-scale production systems**
+- Proven measurable impact in **accuracy, latency, and cost optimization**
 
 ---
 
@@ -105,5 +165,5 @@ Context-aware conversational AI system using retrieval-augmented generation.
 ---
 
 <div align="center">
-  <sub>Focused on building impactful systems with AI and scalable engineering</sub>
+  <sub>Focused on building scalable, intelligent, and impactful systems</sub>
 </div>
