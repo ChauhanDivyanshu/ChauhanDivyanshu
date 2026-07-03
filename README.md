@@ -137,8 +137,8 @@ Blue-green deployment strategy traded dual-environment cost for zero failed rele
 2024 Apr ─── QA Software Engineer @ Tekshapers        → 100+ microservices, NLP automation
 2026 Mar ─── Full Stack Developer (Python + AI) @ Infosware
              ├─ RAG SaaS Platform — production, cost-optimized, multilingual
-             ├─ SITS (HAL Korwa) — master data + zone/transfer backend, via Thinkbotic
-             └─ VerifyLayer AI — founder-side build, live product, 50K+ users
+             ├─ SITS (HAL Korwa) — master data + zone/transfer backend
+             └─ INDIAN ARMY LOGISTICS SYSTEM - Architected and developed an enterprise-grade military logistics system.
 ```
 
 <br/>
