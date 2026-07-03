@@ -177,6 +177,6 @@ Blue-green deployment strategy traded dual-environment cost for zero failed rele
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
-<sub>Built by someone who reads production logs for fun.</sub>
+
 
 </div>
