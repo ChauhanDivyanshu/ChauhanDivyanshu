@@ -23,8 +23,6 @@ company: Infosware Private Limited (Noida, India)
 builds:
   - Production RAG platforms (ingestion → embeddings → hybrid retrieval → LLM response)
   - Backend & master-data architecture for a defence-sector inventory system (HAL Korwa / SITS)
-  - VerifyLayer AI — India's AI scam-detection platform (WhatsApp, Email, Calls, UPI, Loan Apps)
-  - TrustLayer AI — multilingual scam-detection R&D
 believes: "retrieval quality beats model size · async > sync when it can be · ship, measure, cut cost"
 ```
 
@@ -136,7 +134,7 @@ Blue-green deployment strategy traded dual-environment cost for zero failed rele
   Because it's served straight from GitHub — not through a third-party
   Vercel API — it will never show "Invalid upstream response (402)".
 -->
-<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+
 
 <br/><br/>
 
