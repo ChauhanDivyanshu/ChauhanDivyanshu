@@ -1,1 +1,38 @@
+name: Generate GitHub Metrics
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once daily
+  workflow_dispatch:        # lets you trigger it manually anytime
+  push:
+    branches: [ main ]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ChauhanDivyanshu
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+
+          # Top languages card
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
+          # Achievements (replaces the broken "Trophies" card)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # Streak / activity habits
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
