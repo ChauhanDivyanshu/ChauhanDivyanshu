@@ -1,155 +1,155 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyanshu+Chauhan;Full+Stack+Python+Developer;AI+Engineer+%7C+RAG+%26+LLM+Specialist;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=DIVYANSHU%20CHAUHAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20%2B%20AI%20Engineer%20%E2%80%94%20I%20ship%20systems%2C%20not%20demos&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=RAG+%2B+LLM+systems+in+production;Master+data+%26+distributed+backend+design;FastAPI+%C2%B7+LangChain+%C2%B7+pgvector+%C2%B7+Redis+%C2%B7+Celery;Defence-grade+traceability+systems+(SITS+%40+HAL+Korwa);Building+TrustLayer+AI+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
-<!-- Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Divyanshu%20Chauhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Python%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<a href="https://www.linkedin.com/in/iamdivyanshuchauhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/></a>
+<a href="mailto:divyanshuchauhan1200@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/></a>
+<img src="https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=for-the-badge&color=38BDF8&labelColor=0B1120&label=PROFILE+VIEWS"/>
 
 </div>
-
----
-
-### 🚀 About Me
-
-```python
-class Divyanshu:
-    def __init__(self):
-        self.role = "Full Stack Python Developer | AI Engineer"
-        self.company = "Infosware Private Limited, Noida, India"
-        self.focus = ["RAG Architectures", "LLM Integration", "LangChain/LangGraph", "FastAPI"]
-        self.currently_building = "TrustLayer AI — Scam Detection Platform 🇮🇳"
-        self.fun_fact = "I turn prompts into production-grade AI systems ⚡"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent 🤖")
-
-me = Divyanshu()
-me.say_hi()
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
-
----
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge&logo=langchain&logoColor=white&color=1C3C3C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)
-![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white&color=ED8B00)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white&color=FCC624)
-
-</div>
-
----
-
-### 🧠 System Design I Love Building
-
-```
-User Query → API Layer (FastAPI) → Embedding & Query Processing
-     → Hybrid Retrieval (pgvector + BM25) → LLM (API/Local)
-     → Response Generation → User
-```
-
-**Core Principles:** Hybrid Search • Async Scalability (Redis + Celery) • Modular Architecture • Cost-Optimized LLM Calls
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanDivyanshu&theme=tokyonight&hide_border=true" alt="streak stats"/>
+## 🧭 Who I am, in one paragraph
+
+```yaml
+role: Full Stack Python Developer · AI Engineer
+company: Infosware Private Limited (Noida, India)
+builds:
+  - Production RAG platforms (ingestion → embeddings → hybrid retrieval → LLM response)
+  - Backend & master-data architecture for a defence-sector inventory system (HAL Korwa / SITS)
+  - TrustLayer AI — multilingual scam-detection platform for India
+believes: "retrieval quality beats model size · async > sync when it can be · ship, measure, cut cost"
+```
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChauhanDivyanshu&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
-### 💼 Professional Journey
-
-| Role | Company | Duration | Impact |
-|---|---|---|---|
-| 🧠 Full Stack Developer (Python + AI) | Infosware Pvt. Ltd. | Mar 2026 – Present | Built RAG chatbot, ↑30-40% accuracy, ↓35% latency |
-| 🧪 QA Software Engineer | Magic EdTech (Tekshapers) | Apr 2024 – Mar 2026 | Managed 100+ microservices, ↓30% defect leakage |
-| ⚙️ DevOps Intern | AR Electricals | Feb 2024 – Aug 2024 | Built CI/CD pipelines, ↓70% deployment time |
-
----
-
-### 🌟 Featured Projects
+## ⚡ Impact at a glance
 
 <div align="center">
 
-<a href="https://github.com/ChauhanDivyanshu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanDivyanshu&repo=ChauhanDivyanshu&theme=tokyonight&hide_border=true" />
-</a>
+| Metric | Result | Where |
+|:--|:--:|:--|
+| 🎯 Retrieval accuracy | **+40%** | Multi-tier RAG pipeline (Naive/Simple/Advanced) |
+| ⏱️ Processing latency | **−50%** | Redis + Celery distributed async architecture |
+| 💰 AI inference cost | **−25%** | Prompt compression + response caching |
+| 🚫 False retrievals | **−60%** | Fixed BM25 index staleness via event-driven re-indexing |
+| 🚀 Deployment time | **30 min → 5 min** | Blue-green CI/CD pipeline (Jenkins + Docker) |
+| 📦 Accessibility QA time | **3 days → 2 hrs** | Python NLP pipeline for EPUB ALT-text |
 
 </div>
 
-- 🤖 **RAG AI Chatbot System** — Production-grade contextual & semantic search chatbot
-- 🛡️ **TrustLayer AI** — Multi-channel AI scam detection for India (WhatsApp/SMS/Email/Screenshots)
-- ⚙️ **CI/CD Deployment Pipeline** — Cut deployment time from 30 min → 5 min
+<br/>
 
----
+## 🏗️ Systems I've architected
 
-### 📈 Contribution Snake
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 White-Label RAG SaaS Platform**
+Self-hosted, multilingual, cost-optimized RAG for Indian SMBs — Ollama/Llama 3.1 8B, pgvector, hybrid BM25+dense+RRF retrieval, parent-child chunking to solve context-boundary loss.
+`FastAPI` `LangChain` `pgvector` `Redis` `Celery`
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Smart Inventory Tracking Solution (SITS)**
+Defence-sector traceability system for HAL Korwa Avionics — I own the backend for the project/batch-aware master data model and zone-based Transfer ID reconciliation (RFID/barcode, match · short-receipt · excess-receipt).
+`Python` `PostgreSQL` `RFID/IoT` `Event-driven`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🇮🇳 TrustLayer AI**
+Multi-channel AI scam-detection for India — WhatsApp/SMS/Email/screenshots, real-time risk scoring, Hindi/Hinglish NLP.
+`FastAPI` `React` `Tesseract OCR` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Zero-Downtime CI/CD Pipeline**
+Blue-green deployment strategy traded dual-environment cost for zero failed releases — 80% faster ships.
+`Jenkins` `Docker` `AWS EC2/S3`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Stack
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+
+![Python](https://img.shields.io/badge/-Python-0B1120?style=for-the-badge&logoColor=3776AB&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0B1120?style=for-the-badge&logo=fastapi&logoColor=009688)
+![LangChain](https://img.shields.io/badge/-LangChain-0B1120?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/-Redis-0B1120?style=for-the-badge&logo=redis&logoColor=DC382D)
+![AWS](https://img.shields.io/badge/-AWS-0B1120?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Node.js](https://img.shields.io/badge/-Node.js-0B1120?style=for-the-badge&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jenkins](https://img.shields.io/badge/-Jenkins-0B1120?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Git](https://img.shields.io/badge/-Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032)
+
 </div>
 
----
+<br/>
 
-### 📫 Connect With Me
+## 📊 GitHub Activity
 
 <div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&theme=dark&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanDivyanshu&theme=dark&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&theme=react-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChauhanDivyanshu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<br/>
+
+## 💼 Career Timeline
+
+```
+2024 Feb ─── DevOps Intern @ AR Electricals          → CI/CD, Jenkins, Docker
+2024 Apr ─── QA Software Engineer @ Tekshapers        → 100+ microservices, NLP automation
+2026 Mar ─── Full Stack Developer (Python + AI) @ Infosware
+             ├─ RAG SaaS Platform — production, cost-optimized, multilingual
+             └─ SITS (HAL Korwa) — master data + zone/transfer backend
+```
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's talk backend, RAG, or defence-grade traceability systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChauhanDivyanshu)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChauhanDivyanshu&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=100&section=footer" width="100%"/>
-
-**"Focused on building scalable, intelligent, and impactful systems."**
+<sub>Built by someone who reads production logs for fun.</sub>
 
 </div>
