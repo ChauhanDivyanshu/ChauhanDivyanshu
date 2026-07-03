@@ -97,17 +97,30 @@ Blue-green deployment strategy traded dual-environment cost for zero failed rele
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0B1120?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-0B1120?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0B1120?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/-SQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Bash](https://img.shields.io/badge/-Bash-0B1120?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+<br/>
 ![FastAPI](https://img.shields.io/badge/-FastAPI-0B1120?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/-Flask-0B1120?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/-React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![LangChain](https://img.shields.io/badge/-LangChain-0B1120?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-0B1120?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0B1120?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-0B1120?style=for-the-badge&logo=redis&logoColor=DC382D)
+<br/>
 ![AWS](https://img.shields.io/badge/-AWS-0B1120?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Node.js](https://img.shields.io/badge/-Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0B1120?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/-Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/-Postman-0B1120?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Grafana](https://img.shields.io/badge/-Grafana-0B1120?style=for-the-badge&logo=grafana&logoColor=F46800)
 
 </div>
 
