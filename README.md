@@ -336,16 +336,20 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=6366F1&text_color=CBD5E1&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=CBD5E1&langs_count=8" />
+<a href="https://github.com/ChauhanDivyanshu">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=6366F1&text_color=CBD5E1&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/ChauhanDivyanshu">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=6366F1" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=6366F1" width="70%" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F140&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="96%" alt="Activity Graph"/>
 
 </div>
 
