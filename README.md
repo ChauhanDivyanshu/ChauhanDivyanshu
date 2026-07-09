@@ -1,7 +1,6 @@
 <!--
   ┌─────────────────────────────────────────────────────────────────┐
   │          DIVYANSHU CHAUHAN — GitHub Profile README              │
-  │     Repo: ChauhanDivyanshu/ChauhanDivyanshu  (README.md)       │
   └─────────────────────────────────────────────────────────────────┘
 -->
 
@@ -23,11 +22,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
 [![Linktree](https://img.shields.io/badge/Linktree-1A1A1A?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/Divyanshuchauhan10)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
-[![VerifyLayer](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
+[![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
 </div>
 
@@ -69,45 +68,46 @@ class DivyanshuChauhan:
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th align="left" width="250">Metric</th>
-      <th align="center" width="180">Result</th>
-      <th align="left" width="280">How</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🎯 &nbsp; <b>Retrieval Accuracy</b></td>
-      <td align="center"><code>+40%</code></td>
-      <td>Multi-tier RAG pipeline</td>
-    </tr>
-    <tr>
-      <td>⚡ &nbsp; <b>Processing Latency</b></td>
-      <td align="center"><code>−50%</code></td>
-      <td>Redis + Celery async workers</td>
-    </tr>
-    <tr>
-      <td>💰 &nbsp; <b>AI Inference Cost</b></td>
-      <td align="center"><code>−25%</code></td>
-      <td>Prompt compression + response cache</td>
-    </tr>
-    <tr>
-      <td>🚫 &nbsp; <b>False Retrievals</b></td>
-      <td align="center"><code>−60%</code></td>
-      <td>Event-driven BM25 re-indexing</td>
-    </tr>
-    <tr>
-      <td>🚀 &nbsp; <b>Deployment Time</b></td>
-      <td align="center"><code>30 min → 5 min</code></td>
-      <td>Blue-green CI/CD pipeline</td>
-    </tr>
-    <tr>
-      <td>📦 &nbsp; <b>Accessibility QA</b></td>
-      <td align="center"><code>3 days → 2 hrs</code></td>
-      <td>Python NLP pipeline for EPUB</td>
-    </tr>
-  </tbody>
+<tr>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/Retrieval_Accuracy-%2B40%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>Multi-tier RAG pipeline</sub>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/Latency_Cut--50%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>Redis + Celery async</sub>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/AI_Cost_Saved--25%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>Prompt compression + cache</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/False_Retrievals--60%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>Event-driven BM25 re-index</sub>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/Deploy_Time-30min%E2%86%925min-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>Blue-green CI/CD</sub>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/QA_Pipeline-3days%E2%86%922hrs-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<br/><sub>NLP EPUB automation</sub>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -124,31 +124,27 @@ class DivyanshuChauhan:
 > Self-hosted · Multilingual · Cost-optimised RAG for Indian SMBs
 
 ```
-                    RAG PIPELINE FLOW
-    ─────────────────────────────────────────────
-
-              User Query
-                  │
-                  ▼
-           Embedding Model
-                  │
-         ┌────────┴────────┐
-         ▼                 ▼
-     pgvector          BM25 Index
-      (dense)           (sparse)
-         │                 │
-         └────────┬────────┘
-                  ▼
-            RRF Re-ranker
-                  │
-                  ▼
-          Parent-Child Chunks
-                  │
-                  ▼
-          Llama 3.1 8B (Ollama)
-                  │
-                  ▼
-        Redis Cache ──► User Response
+              RAG PIPELINE FLOW
+    ─────────────────────────────────
+         User Query ──► Embedding Model
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+              pgvector            BM25 Index
+               (dense)             (sparse)
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                     RRF Re-ranker
+                            │
+                            ▼
+                   Parent-Child Chunks
+                            │
+                            ▼
+                   Llama 3.1 8B (Ollama)
+                            │
+                            ▼
+                   Redis Cache ──► User
 ```
 
 **Key decisions & why:**
@@ -176,38 +172,25 @@ class DivyanshuChauhan:
 
 ```
               TRANSFER RECONCILIATION
-    ─────────────────────────────────────────────
-
+    ─────────────────────────────────
           RFID / Barcode Scan
                   │
                   ▼
-           Zone Detection
-                  │
-                  ▼
-          Transfer ID Lookup
-                  │
-         ┌────────┼────────┐
-         ▼        ▼        ▼
-       MATCH   SHORT     EXCESS
-                RECEIPT  RECEIPT
-         │        │        │
-         ▼        ▼        ▼
-       Commit   Alert    Alert
-         │
-         ▼
-    Audit Trail → PostgreSQL
+           Zone Detection ──► Transfer ID Lookup
+                                   │
+                       ┌───────────┼───────────┐
+                       ▼           ▼           ▼
+                     MATCH       SHORT       EXCESS
+                                 RECEIPT    RECEIPT
+                       │           │           │
+                       ▼           ▼           ▼
+                     Commit      Alert       Alert
+                       │
+                       ▼
+                 Audit Trail → PostgreSQL
 ```
 
-**Key decisions & why:**
-
-| Decision | Problem solved |
-|---|---|
-| Project/batch-aware master data model | Multi-project inventory isolation |
-| Zone-based Transfer ID reconciliation | Prevents mis-attribution across zones |
-| Match/Short/Excess receipt workflow | Full traceability for military audit |
-| Event-driven architecture | Real-time discrepancy alerts |
-
-**Stack:** `Python` `PostgreSQL` `RFID/IoT` `Event-Driven` `Role-Based Access`
+**Stack:** `Python` `PostgreSQL` `RFID/IoT` `Event-Driven` `RBAC`
 
 </details>
 
@@ -218,18 +201,16 @@ class DivyanshuChauhan:
 
 <br/>
 
-> India's AI scam-detection platform — real-time risk scoring across every attack surface
+> India's AI scam-detection platform — real-time risk scoring
 
 ```
               DETECTION MODULES
-    ─────────────────────────────────────────────
-
+    ─────────────────────────────────
      Input ──► WhatsApp / SMS ──► Smishing classifier
            ──► Email           ──► Phishing + spoofing
            ──► Call (audio)    ──► Voice scam patterns
            ──► UPI / QR code   ──► Fraud ID lookup
            ──► Loan App        ──► RBI registry check
-
                         │
                         ▼
              Risk Aggregation Engine
@@ -255,35 +236,25 @@ class DivyanshuChauhan:
 
 ```
               BLUE-GREEN PIPELINE
-    ─────────────────────────────────────────────
-
-           git push
-              │
-              ▼
-     Jenkins Build & Test
-              │
-              ▼
-         Lint / Scan
-              │
-              ▼
-        Docker Image
-              │
-              ▼
-       Push to Registry
-              │
-      ┌───────┴───────┐
-      ▼               ▼
-   GREEN env       BLUE env
-   (deploy)       (standby)
-      │
-      ▼
-   Health Check ✅
-      │
-      ▼
-   Nginx Traffic Switch
-      │
-      ▼
-   Blue = new standby
+    ─────────────────────────────────
+              git push
+                 │
+                 ▼
+        Jenkins Build & Test
+                 │
+                 ▼
+           Docker Image → Registry
+                 │
+         ┌───────┴───────┐
+         ▼               ▼
+      GREEN env       BLUE env
+      (deploy)       (standby)
+         │
+         ▼
+      Health Check ✅
+         │
+         ▼
+      Nginx Traffic Switch
 ```
 
 **Stack:** `Jenkins` `Docker` `AWS EC2` `AWS S3` `Nginx`
@@ -294,51 +265,50 @@ class DivyanshuChauhan:
 
 ## `$ cat tech_stack.md`
 
+```json
+{
+  "languages"  : ["Python", "Java", "JavaScript", "TypeScript", "C++", "C", "SQL", "Bash", "HTML5", "CSS3"],
+  "backend"    : ["FastAPI", "Flask", "Node.js", "Express", "Celery", "LangChain", "Pydantic"],
+  "frontend"   : ["React", "Next.js", "Tailwind CSS", "TypeScript"],
+  "databases"  : ["PostgreSQL + pgvector", "MySQL", "MongoDB", "Redis", "SQLite"],
+  "ai_ml"      : ["Ollama / Llama 3.1", "BM25", "Dense Retrieval", "RRF", "OCR", "NLP", "HuggingFace"],
+  "devops"     : ["Docker", "Jenkins", "AWS (EC2/S3)", "GitHub Actions", "Nginx", "Linux"],
+  "monitoring" : ["Grafana", "Structured logging", "Health-check endpoints"],
+  "tools"      : ["Git", "GitHub", "Postman", "VS Code", "Jupyter"]
+}
+```
+
 <div align="center">
 
-#### 💻 &nbsp;Languages
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css,bash&theme=dark&perline=9" alt="languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css,bash&theme=dark&perline=9" alt="Languages"/>
-
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django&theme=dark&perline=5" alt="backend"/>
 <br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 
-#### ⚙️ &nbsp;Backend & Frameworks
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=5" alt="frontend"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django&theme=dark&perline=9" alt="Backend"/>
-
+#### 🗄️ Databases & Cache
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=5" alt="databases"/>
 <br/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-#### 🎨 &nbsp;Frontend
+#### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/BM25-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=9" alt="Frontend"/>
+#### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,nginx,linux,grafana&theme=dark&perline=7" alt="devops"/>
 
-<br/>
-
-#### 🗄️ &nbsp;Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=9" alt="Databases"/>
-
-<br/>
-
-#### 🤖 &nbsp;AI / ML
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br/>
-
-#### ☁️ &nbsp;DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,nginx,linux,grafana&theme=dark&perline=9" alt="DevOps"/>
-
-<br/>
-
-#### 🛠️ &nbsp;Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=9" alt="Tools"/>
+#### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=5" alt="tools"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
 
@@ -366,16 +336,31 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="98%" alt="Activity Graph"/>
+<a href="https://github.com/ChauhanDivyanshu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/ChauhanDivyanshu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="70%" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph" width="96%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## `$ ./snake --watch`
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/ChauhanDivyanshu/ChauhanDivyanshu/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <br/>
+  <sub>↑ If snake doesn't show yet, run the Snake workflow once from Actions tab (see below)</sub>
 </div>
 
 ---
@@ -398,21 +383,91 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 <div align="center">
 
+### 🤝 Let's Build Something Together
+
 **Open for:** &nbsp; Backend Architecture &nbsp;·&nbsp; RAG & LLM Systems &nbsp;·&nbsp; AI/ML Consulting &nbsp;·&nbsp; Open-Source Collab
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
+[![Linktree](https://img.shields.io/badge/Linktree-1A1A1A?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/Divyanshuchauhan10)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
 [![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views" alt="profile views"/>
 
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
 
 </div>
+```
+
+---
+
+## 🐍 Snake workflow kaise banaye — Step by Step
+
+**GitHub pe karo:**
+
+**1. File banao:**
+- Repo `ChauhanDivyanshu/ChauhanDivyanshu` open karo
+- Click **Add file** → **Create new file**
+- Name me ye **exact** likho:
+```
+.github/workflows/snake.yml
+```
+
+**2. Is code ko paste karo:**
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ChauhanDivyanshu
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3. Commit:**
+- Scroll down → **Commit new file**
+
+**4. Permissions on karo:**
+- **Settings** → **Actions** → **General**
+- **Workflow permissions** → ✅ **Read and write permissions** → Save
+
+**5. First time run karo:**
+- **Actions** tab → **Generate Snake** → **Run workflow** → Run
+- 2 min wait karo
+- Branch dropdown me `output` branch aa jayegi → Snake ready!
+
+Iske baad profile pe snake dikhega permanent.
