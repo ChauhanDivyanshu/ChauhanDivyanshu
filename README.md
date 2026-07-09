@@ -23,21 +23,11 @@
 
 <div align="center">
 
-<a href="https://divyanshu-chauhan-resume.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/iamdivyanshuchauhan">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn"/>
-</a>
-<a href="https://linktr.ee/Divyanshuchauhan10">
-  <img src="https://img.shields.io/badge/Linktree-6366F1?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0F172A" alt="Linktree"/>
-</a>
-<a href="mailto:divyanshuchauhan1200@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Gmail"/>
-</a>
-<a href="https://verifylayer-ai.vercel.app/">
-  <img src="https://img.shields.io/badge/VerifyLayer_AI-6366F1?style=for-the-badge&logo=shield&logoColor=white&labelColor=0F172A" alt="VerifyLayer"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Divyanshuchauhan10)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
+[![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
 </div>
 
@@ -74,14 +64,14 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 
 <div align="center">
 
-|  |  |  |
-|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/%2B40%25-6366F1?style=for-the-badge&labelColor=0F172A) | ![](https://img.shields.io/badge/%E2%88%9250%25-8B5CF6?style=for-the-badge&labelColor=0F172A) | ![](https://img.shields.io/badge/%E2%88%9225%25-EC4899?style=for-the-badge&labelColor=0F172A) |
-| **🎯 Retrieval Accuracy** | **⚡ Latency Cut** | **💰 AI Cost Saved** |
-| Multi-tier RAG pipeline | Redis + Celery async | Prompt compression + cache |
-| ![](https://img.shields.io/badge/%E2%88%9260%25-F59E0B?style=for-the-badge&labelColor=0F172A) | ![](https://img.shields.io/badge/6%C3%97_Faster-10B981?style=for-the-badge&labelColor=0F172A) | ![](https://img.shields.io/badge/36%C3%97_Faster-06B6D4?style=for-the-badge&labelColor=0F172A) |
-| **🚫 False Retrievals** | **🚀 Deploy Time** | **📦 QA Pipeline** |
-| Event-driven BM25 re-index | 30 min → 5 min · Blue-green | 3 days → 2 hrs · NLP EPUB |
+| Metric | Result | How |
+|:---|:---:|:---|
+| 🎯 &nbsp; **Retrieval Accuracy** | ![](https://img.shields.io/badge/%2B40%25-6366F1?style=flat-square&labelColor=0F172A) | Multi-tier RAG pipeline |
+| ⚡ &nbsp; **Processing Latency** | ![](https://img.shields.io/badge/%E2%88%9250%25-6366F1?style=flat-square&labelColor=0F172A) | Redis + Celery async |
+| 💰 &nbsp; **AI Inference Cost** | ![](https://img.shields.io/badge/%E2%88%9225%25-6366F1?style=flat-square&labelColor=0F172A) | Prompt compression + cache |
+| 🚫 &nbsp; **False Retrievals** | ![](https://img.shields.io/badge/%E2%88%9260%25-6366F1?style=flat-square&labelColor=0F172A) | Event-driven BM25 re-index |
+| 🚀 &nbsp; **Deployment Time** | ![](https://img.shields.io/badge/30min_%E2%86%92_5min-6366F1?style=flat-square&labelColor=0F172A) | Blue-green CI/CD |
+| 📦 &nbsp; **QA Pipeline** | ![](https://img.shields.io/badge/3days_%E2%86%92_2hrs-6366F1?style=flat-square&labelColor=0F172A) | NLP EPUB automation |
 
 </div>
 
@@ -286,7 +276,7 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanDivyanshu&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=6366F1" width="70%" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -317,7 +307,7 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChauhanDivyanshu/ChauhanDivyanshu/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -346,21 +336,13 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 <br/>
 
-<a href="https://divyanshu-chauhan-resume.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/>
-</a>
-<a href="https://www.linkedin.com/in/iamdivyanshuchauhan">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
-</a>
-<a href="mailto:divyanshuchauhan1200@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
-</a>
-<a href="https://verifylayer-ai.vercel.app/">
-  <img src="https://img.shields.io/badge/VerifyLayer_AI-6366F1?style=for-the-badge&logo=shield&logoColor=white&labelColor=0F172A"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
+[![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views)
 
 </div>
