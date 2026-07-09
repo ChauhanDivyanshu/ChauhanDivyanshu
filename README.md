@@ -71,40 +71,46 @@ class DivyanshuChauhan:
 <tr>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/Retrieval_Accuracy-%2B40%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Multi-tier RAG pipeline</sub>
+### 🎯 +40%
+**Retrieval Accuracy**
+<sub>Multi-tier RAG pipeline</sub>
 
 </td>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/Latency_Cut--50%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Redis + Celery async</sub>
+### ⚡ -50%
+**Latency Cut**
+<sub>Redis + Celery async</sub>
 
 </td>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/AI_Cost_Saved--25%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Prompt compression + cache</sub>
+### 💰 -25%
+**AI Cost Saved**
+<sub>Prompt compression + cache</sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/False_Retrievals--60%25-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Event-driven BM25 re-index</sub>
+### 🚫 -60%
+**False Retrievals**
+<sub>Event-driven BM25 re-index</sub>
 
 </td>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/Deploy_Time-30min%E2%86%925min-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Blue-green CI/CD</sub>
+### 🚀 6x Faster
+**Deploy Time**
+<sub>30min → 5min · Blue-green</sub>
 
 </td>
 <td align="center" width="180">
 
-<img src="https://img.shields.io/badge/QA_Pipeline-3days%E2%86%922hrs-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>NLP EPUB automation</sub>
+### 📦 36x Faster
+**QA Pipeline**
+<sub>3days → 2hrs · NLP EPUB</sub>
 
 </td>
 </tr>
@@ -154,8 +160,8 @@ class DivyanshuChauhan:
 | Ollama / Llama 3.1 8B local | Zero external API cost |
 | BM25 + Dense + RRF fusion | Keyword + semantic — best of both |
 | Parent-child chunking | Context-boundary loss eliminated |
-| Event-driven BM25 re-index | Fixed index staleness → −60% false retrievals |
-| Redis response cache | Repeat queries free → −25% inference cost |
+| Event-driven BM25 re-index | Fixed index staleness → -60% false retrievals |
+| Redis response cache | Repeat queries free → -25% inference cost |
 
 **Stack:** `FastAPI` `LangChain` `pgvector` `Ollama` `Redis` `Celery` `PostgreSQL`
 
@@ -251,7 +257,7 @@ class DivyanshuChauhan:
       (deploy)       (standby)
          │
          ▼
-      Health Check ✅
+      Health Check
          │
          ▼
       Nginx Traffic Switch
@@ -292,7 +298,7 @@ class DivyanshuChauhan:
 #### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=5" alt="frontend"/>
 
-#### 🗄️ Databases & Cache
+#### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=5" alt="databases"/>
 <br/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -300,10 +306,9 @@ class DivyanshuChauhan:
 #### 🤖 AI / ML
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/BM25-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-#### ☁️ DevOps & Cloud
+#### ☁️ DevOps
 <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,nginx,linux,grafana&theme=dark&perline=7" alt="devops"/>
 
 #### 🛠️ Tools
@@ -358,9 +363,7 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChauhanDivyanshu/ChauhanDivyanshu/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-  <br/>
-  <sub>↑ If snake doesn't show yet, run the Snake workflow once from Actions tab (see below)</sub>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -405,69 +408,3 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 </div>
 ```
-
----
-
-## 🐍 Snake workflow kaise banaye — Step by Step
-
-**GitHub pe karo:**
-
-**1. File banao:**
-- Repo `ChauhanDivyanshu/ChauhanDivyanshu` open karo
-- Click **Add file** → **Create new file**
-- Name me ye **exact** likho:
-```
-.github/workflows/snake.yml
-```
-
-**2. Is code ko paste karo:**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ChauhanDivyanshu
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**3. Commit:**
-- Scroll down → **Commit new file**
-
-**4. Permissions on karo:**
-- **Settings** → **Actions** → **General**
-- **Workflow permissions** → ✅ **Read and write permissions** → Save
-
-**5. First time run karo:**
-- **Actions** tab → **Generate Snake** → **Run workflow** → Run
-- 2 min wait karo
-- Branch dropdown me `output` branch aa jayegi → Snake ready!
-
-Iske baad profile pe snake dikhega permanent.
