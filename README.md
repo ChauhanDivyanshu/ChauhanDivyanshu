@@ -2,6 +2,7 @@
   ┌─────────────────────────────────────────────────────────────────┐
   │          DIVYANSHU CHAUHAN — GitHub Profile README              │
   │     Repo: ChauhanDivyanshu/ChauhanDivyanshu  (README.md)       │
+  │              Backend + AI Engineer · India 🇮🇳                  │
   └─────────────────────────────────────────────────────────────────┘
 -->
 
@@ -25,7 +26,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Divyanshuchauhan10)
+[![Linktree](https://img.shields.io/badge/Linktree-1A1A1A?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/Divyanshuchauhan10)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
 [![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
@@ -64,14 +65,47 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 
 <div align="center">
 
-| Metric | Result | How |
-|:---|:---:|:---|
-| 🎯 &nbsp; **Retrieval Accuracy** | ![](https://img.shields.io/badge/%2B40%25-6366F1?style=flat-square&labelColor=0F172A) | Multi-tier RAG pipeline |
-| ⚡ &nbsp; **Processing Latency** | ![](https://img.shields.io/badge/%E2%88%9250%25-6366F1?style=flat-square&labelColor=0F172A) | Redis + Celery async |
-| 💰 &nbsp; **AI Inference Cost** | ![](https://img.shields.io/badge/%E2%88%9225%25-6366F1?style=flat-square&labelColor=0F172A) | Prompt compression + cache |
-| 🚫 &nbsp; **False Retrievals** | ![](https://img.shields.io/badge/%E2%88%9260%25-6366F1?style=flat-square&labelColor=0F172A) | Event-driven BM25 re-index |
-| 🚀 &nbsp; **Deployment Time** | ![](https://img.shields.io/badge/30min_%E2%86%92_5min-6366F1?style=flat-square&labelColor=0F172A) | Blue-green CI/CD |
-| 📦 &nbsp; **QA Pipeline** | ![](https://img.shields.io/badge/3days_%E2%86%92_2hrs-6366F1?style=flat-square&labelColor=0F172A) | NLP EPUB automation |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Metric</th>
+      <th align="center">Result</th>
+      <th align="left">How</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎯 &nbsp; <b>Retrieval Accuracy</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/%2B40%25-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>Multi-tier RAG pipeline</td>
+    </tr>
+    <tr>
+      <td>⚡ &nbsp; <b>Processing Latency</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%88%9250%25-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>Redis + Celery async</td>
+    </tr>
+    <tr>
+      <td>💰 &nbsp; <b>AI Inference Cost</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%88%9225%25-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>Prompt compression + cache</td>
+    </tr>
+    <tr>
+      <td>🚫 &nbsp; <b>False Retrievals</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%88%9260%25-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>Event-driven BM25 re-index</td>
+    </tr>
+    <tr>
+      <td>🚀 &nbsp; <b>Deployment Time</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/30min%20%E2%86%92%205min-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>Blue-green CI/CD</td>
+    </tr>
+    <tr>
+      <td>📦 &nbsp; <b>QA Pipeline</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/3days%20%E2%86%92%202hrs-6366F1?style=flat-square&labelColor=0F172A"/></td>
+      <td>NLP EPUB automation</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -240,7 +274,7 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
    (deploy)       (standby)
       │
       ▼
-   Health Check ✅
+   Health Check 
       │
       ▼
    Nginx Traffic Switch
@@ -255,20 +289,57 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 
 ---
 
-## `$ cat stack.json`
+## `$ cat tech_stack.md`
 
-```json
-{
-  "languages"  : ["Python", "Java", "JavaScript", "TypeScript", "C++", "C", "SQL", "Bash", "HTML5", "CSS3"],
-  "backend"    : ["FastAPI", "Flask", "Node.js", "Express", "Celery", "LangChain", "Pydantic"],
-  "frontend"   : ["React", "Next.js", "Tailwind CSS", "TypeScript"],
-  "databases"  : ["PostgreSQL + pgvector", "MySQL", "MongoDB", "Redis", "SQLite"],
-  "ai_ml"      : ["Ollama / Llama 3.1", "BM25", "Dense Retrieval", "RRF", "OCR", "NLP", "HuggingFace"],
-  "devops"     : ["Docker", "Jenkins", "AWS (EC2/S3)", "GitHub Actions", "Nginx", "Linux"],
-  "monitoring" : ["Grafana", "Structured logging", "Health-check endpoints"],
-  "tools"      : ["Git", "GitHub", "Postman", "VS Code", "Jupyter"]
-}
-```
+<div align="center">
+
+#### 💻 &nbsp;Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css,bash&theme=dark&perline=9" alt="Languages"/>
+
+<br/>
+
+#### ⚙️ &nbsp;Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,django&theme=dark&perline=9" alt="Backend"/>
+
+<br/>
+
+#### 🎨 &nbsp;Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=9" alt="Frontend"/>
+
+<br/>
+
+#### 🗄️ &nbsp;Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=9" alt="Databases"/>
+
+<br/>
+
+#### 🤖 &nbsp;AI / ML Stack
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/BM25-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br/><br/>
+
+#### ☁️ &nbsp;DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,nginx,linux,grafana&theme=dark&perline=9" alt="DevOps"/>
+
+<br/>
+
+#### 🛠️ &nbsp;Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=9" alt="Tools"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -276,11 +347,16 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1" width="70%" alt="GitHub Streak"/>
+<a href="https://github.com/ChauhanDivyanshu">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/ChauhanDivyanshu">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=E2E8F0&langs_count=8" height="180" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="96%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -291,8 +367,8 @@ I design and ship **production RAG systems, LLM-powered platforms, and backend a
 ```
 Mar 2026  feat: joined Infosware as Full Stack Python + AI Developer     ← HEAD
             ├── RAG SaaS Platform shipped to production
-            ├── SITS (HAL Korwa) — backend owner
-            └── VerifyLayer AI — 50K+ users protected
+            └── SITS (HAL Korwa) — backend owner
+            
 
 Apr 2024  feat: QA Software Engineer @ Tekshapers
             ├── 100+ microservices tested end-to-end
@@ -338,11 +414,16 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)
+[![Linktree](https://img.shields.io/badge/Linktree-1A1A1A?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/Divyanshuchauhan10)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)
 [![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
 
 </div>
