@@ -284,7 +284,7 @@ class DivyanshuChauhan:
 }
 ```
 
-<div align="center">
+<!-- <div align="center">
 
 #### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css,bash&theme=dark&perline=9" alt="languages"/>
@@ -315,7 +315,7 @@ class DivyanshuChauhan:
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=5" alt="tools"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -324,8 +324,8 @@ class DivyanshuChauhan:
 ```
 Mar 2026  feat: joined Infosware as Full Stack Python + AI Developer     ← HEAD
             ├── RAG SaaS Platform shipped to production
-            ├── SITS (HAL Korwa) — backend owner
-            └── VerifyLayer AI — 50K+ users protected
+            └── SITS (HAL Korwa) — backend owner
+            
 
 Apr 2024  feat: QA Software Engineer @ Tekshapers
             ├── 100+ microservices tested end-to-end
@@ -340,19 +340,6 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 ## `$ cat github_stats.md`
 
 <div align="center">
-
-<a href="https://github.com/ChauhanDivyanshu">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/ChauhanDivyanshu">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=E2E8F0&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="70%" alt="Streak"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=8B5CF6&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph" width="96%" alt="Activity Graph"/>
 
@@ -407,4 +394,3 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
 
 </div>
-```
