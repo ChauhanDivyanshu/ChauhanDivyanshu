@@ -23,11 +23,21 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=6366F1&label=&labelColor=0F172A)](https://divyanshu-chauhan-resume.netlify.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=6366F1)](https://www.linkedin.com/in/iamdivyanshuchauhan)&nbsp;
-[![Linktree](https://img.shields.io/badge/Linktree-0F172A?style=flat-square&logo=linktree&logoColor=6366F1)](https://linktr.ee/Divyanshuchauhan10)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=flat-square&logo=gmail&logoColor=6366F1)](mailto:divyanshuchauhan1200@gmail.com)&nbsp;
-[![VerifyLayer](https://img.shields.io/badge/VerifyLayer_AI-0F172A?style=flat-square&logo=shield&logoColor=6366F1)](https://verifylayer-ai.vercel.app/)
+<a href="https://divyanshu-chauhan-resume.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/iamdivyanshuchauhan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://linktr.ee/Divyanshuchauhan10">
+  <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+</a>
+<a href="mailto:divyanshuchauhan1200@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://verifylayer-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/VerifyLayer_AI-F59E0B?style=for-the-badge&logo=shield&logoColor=white" alt="VerifyLayer"/>
+</a>
 
 </div>
 
@@ -37,30 +47,26 @@
 
 ## `$ whoami`
 
-```python
-class DivyanshuChauhan:
+Hi 👋 I'm **Divyanshu**, a **Full Stack Python + AI Engineer** based in Noida, India.
 
-    role     = "Full Stack Python Developer · AI Engineer"
-    company  = "Infosware Private Limited, Noida 🇮🇳"
-    focus    = ["RAG Systems", "LLM in Production", "Backend Architecture"]
+I design and ship **production RAG systems, LLM-powered platforms, and backend architectures** — currently at **Infosware Private Limited**. My day-to-day involves solving problems where retrieval accuracy, latency, and cost all matter equally.
 
-    currently = {
-        "building" : [
-            "White-Label RAG SaaS — Ollama · Llama 3.1 · pgvector · LangChain",
-            "SITS — Defence inventory backend for HAL Korwa Avionics",
-            "VerifyLayer AI — Scam detection · 50K+ users · 99.2% accuracy",
-        ],
-        "learning" : ["Agentic RAG", "Multi-modal retrieval", "eBPF observability"],
-        "open_to"  : ["Backend roles", "AI/ML engineering", "Open-source collab"],
-    }
+**🔨 What I'm building right now**
+- 🤖 **White-Label RAG SaaS Platform** — Ollama · Llama 3.1 · pgvector · LangChain
+- 🛡️ **SITS** — Defence inventory backend for **HAL Korwa Avionics**
+- 🔍 **VerifyLayer AI** — India's AI scam-detection platform (50K+ users · 99.2% accuracy)
 
-    principles = [
-        "Retrieval quality > model size",
-        "Async by default, sync when forced",
-        "Ship → measure → cut cost → repeat",
-        "If it's not observable, it doesn't exist",
-    ]
-```
+**🎯 What I care about**
+- Retrieval quality **>** model size
+- Async by default, sync only when forced
+- Ship → measure → cut cost → repeat
+- If it's not observable, it doesn't exist in production
+
+**🌱 Currently learning**
+- Agentic RAG · Multi-modal retrieval · eBPF observability
+
+**💼 Open to**
+- Backend roles · AI/ML engineering · Open-source collaboration
 
 ---
 
@@ -70,31 +76,37 @@ class DivyanshuChauhan:
 
 <table>
 <tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/+40%25-Retrieval_Accuracy-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<td align="center" width="200">
+<h3>🎯 +40%</h3>
+<b>Retrieval Accuracy</b>
 <br/><sub>Multi-tier RAG pipeline</sub>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/-50%25-Latency_Cut-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<td align="center" width="200">
+<h3>⚡ −50%</h3>
+<b>Latency Cut</b>
 <br/><sub>Redis + Celery async</sub>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/-25%25-AI_Cost_Saved-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<td align="center" width="200">
+<h3>💰 −25%</h3>
+<b>AI Cost Saved</b>
 <br/><sub>Prompt compression + cache</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/-60%25-False_Retrievals-6366F1?style=for-the-badge&labelColor=0F172A"/>
+<td align="center" width="200">
+<h3>🚫 −60%</h3>
+<b>False Retrievals</b>
 <br/><sub>Event-driven BM25 re-index</sub>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/30min→5min-Deploy_Time-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>Blue-green CI/CD</sub>
+<td align="center" width="200">
+<h3>🚀 6× Faster</h3>
+<b>Deploy Time</b>
+<br/><sub>30 min → 5 min · Blue-green</sub>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/3days→2hrs-QA_Pipeline-6366F1?style=for-the-badge&labelColor=0F172A"/>
-<br/><sub>NLP EPUB automation</sub>
+<td align="center" width="200">
+<h3>📦 36× Faster</h3>
+<b>QA Pipeline</b>
+<br/><sub>3 days → 2 hrs · NLP EPUB</sub>
 </td>
 </tr>
 </table>
@@ -113,34 +125,34 @@ class DivyanshuChauhan:
 > Self-hosted · Multilingual · Cost-optimised RAG for Indian SMBs
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    RAG PIPELINE FLOW                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  User Query ──► Embedding Model                            │
-│                      │                                      │
-│             ┌────────┴────────┐                            │
-│             ▼                 ▼                             │
-│        pgvector           BM25 Index                        │
-│       (dense)             (sparse)                          │
-│             │                 │                             │
-│             └────────┬────────┘                            │
-│                      ▼                                      │
-│               RRF Re-ranker                                 │
-│                      │                                      │
-│                      ▼                                      │
-│              Parent-Child Chunks                            │
-│                      │                                      │
-│                      ▼                                      │
-│              Llama 3.1 8B (Ollama)                          │
-│                      │                                      │
-│                      ▼                                      │
-│             Redis Response Cache ──► User                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                    RAG PIPELINE FLOW
+    ─────────────────────────────────────────────
+
+              User Query
+                  │
+                  ▼
+           Embedding Model
+                  │
+         ┌────────┴────────┐
+         ▼                 ▼
+     pgvector          BM25 Index
+      (dense)           (sparse)
+         │                 │
+         └────────┬────────┘
+                  ▼
+            RRF Re-ranker
+                  │
+                  ▼
+          Parent-Child Chunks
+                  │
+                  ▼
+          Llama 3.1 8B (Ollama)
+                  │
+                  ▼
+        Redis Cache ──► User Response
 ```
 
-**Key decisions & why:**
+**Key decisions & why**
 
 | Decision | Problem solved |
 |---|---|
@@ -164,39 +176,39 @@ class DivyanshuChauhan:
 > Backend owner for India's defence-sector RFID traceability platform
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                 TRANSFER RECONCILIATION                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  RFID / Barcode Scan                                        │
-│         │                                                   │
-│         ▼                                                   │
-│   Zone Detection  ──►  Transfer ID Lookup                   │
-│                               │                             │
-│                    ┌──────────┼──────────┐                  │
-│                    ▼          ▼          ▼                   │
-│                 MATCH      SHORT      EXCESS                 │
-│                    │       RECEIPT    RECEIPT                │
-│                    │          │          │                   │
-│                    ▼          ▼          ▼                   │
-│                 Commit     Alert      Alert                  │
-│                    │                                         │
-│                    ▼                                         │
-│            Audit Trail → PostgreSQL                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+              TRANSFER RECONCILIATION
+    ─────────────────────────────────────────────
+
+          RFID / Barcode Scan
+                  │
+                  ▼
+           Zone Detection
+                  │
+                  ▼
+          Transfer ID Lookup
+                  │
+         ┌────────┼────────┐
+         ▼        ▼        ▼
+       MATCH   SHORT     EXCESS
+                RECEIPT  RECEIPT
+         │        │        │
+         ▼        ▼        ▼
+       Commit   Alert    Alert
+         │
+         ▼
+    Audit Trail → PostgreSQL
 ```
 
-**Key decisions & why:**
+**Key decisions & why**
 
 | Decision | Problem solved |
 |---|---|
 | Project/batch-aware master data model | Multi-project inventory isolation |
 | Zone-based Transfer ID reconciliation | Prevents mis-attribution across zones |
-| Match/Short/Excess receipt workflow | Full traceability for military audit |
+| Match / Short / Excess workflow | Full traceability for military audit |
 | Event-driven architecture | Real-time discrepancy alerts |
 
-**Stack:** `Python` `PostgreSQL` `RFID/IoT` `Event-Driven` `Role-Based Access`
+**Stack:** `Python` `PostgreSQL` `RFID/IoT` `Event-Driven` `RBAC`
 
 </details>
 
@@ -210,25 +222,23 @@ class DivyanshuChauhan:
 > India's AI scam-detection platform — real-time risk scoring across every attack surface
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                  DETECTION MODULES                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Input ──►  WhatsApp / SMS  ──►  Smishing classifier         │
-│        ──►  Email           ──►  Phishing + spoofing         │
-│        ──►  Call (audio)    ──►  Voice scam patterns         │
-│        ──►  UPI / QR code   ──►  Fraud ID lookup             │
-│        ──►  Loan App        ──►  RBI registry cross-check    │
-│                                                              │
-│                         ▼                                    │
-│               Risk Aggregation Engine                        │
-│                         │                                    │
-│              ┌──────────┴──────────┐                        │
-│              ▼                     ▼                         │
-│         Risk Score              Verdict                      │
-│          (0 – 100)          SAFE / SUSPICIOUS / SCAM        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+              DETECTION MODULES
+    ─────────────────────────────────────────────
+
+     Input ──► WhatsApp / SMS ──► Smishing classifier
+           ──► Email           ──► Phishing + spoofing
+           ──► Call (audio)    ──► Voice scam patterns
+           ──► UPI / QR code   ──► Fraud ID lookup
+           ──► Loan App        ──► RBI registry check
+
+                        │
+                        ▼
+             Risk Aggregation Engine
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+        Risk Score              Verdict
+         (0 – 100)      SAFE / SUSPICIOUS / SCAM
 ```
 
 **Stack:** `FastAPI` `OCR` `NLP` `RBI Registry API` `Risk Scoring Engine`
@@ -245,35 +255,36 @@ class DivyanshuChauhan:
 > Blue-green deployment — zero failed releases since adoption
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                  BLUE-GREEN PIPELINE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  git push                                                    │
-│     │                                                        │
-│     ▼                                                        │
-│  Jenkins  ──►  Build  ──►  Test  ──►  Lint/Scan             │
-│                                          │                   │
-│                                          ▼                   │
-│                                    Docker Image              │
-│                                          │                   │
-│                                          ▼                   │
-│                                   Push to Registry           │
-│                                          │                   │
-│                              ┌───────────┴───────────┐      │
-│                              ▼                       ▼      │
-│                         GREEN env               BLUE env    │
-│                         (deploy)               (standby)    │
-│                              │                              │
-│                              ▼                              │
-│                        Health Check ✅                       │
-│                              │                              │
-│                              ▼                              │
-│                    Nginx Traffic Switch                      │
-│                              │                              │
-│                   Blue becomes new standby                  │
-│                                                             │
-└──────────────────────────────────────────────────────────────┘
+              BLUE-GREEN PIPELINE
+    ─────────────────────────────────────────────
+
+           git push
+              │
+              ▼
+     Jenkins Build & Test
+              │
+              ▼
+         Lint / Scan
+              │
+              ▼
+        Docker Image
+              │
+              ▼
+       Push to Registry
+              │
+      ┌───────┴───────┐
+      ▼               ▼
+   GREEN env       BLUE env
+   (deploy)       (standby)
+      │
+      ▼
+   Health Check ✅
+      │
+      ▼
+   Nginx Traffic Switch
+      │
+      ▼
+   Blue = new standby
 ```
 
 **Stack:** `Jenkins` `Docker` `AWS EC2` `AWS S3` `Nginx`
@@ -288,28 +299,31 @@ class DivyanshuChauhan:
 
 ```json
 {
-  "languages"  : ["Python", "Java", "JavaScript", "TypeScript", "Bash", "SQL"],
-  "backend"    : ["FastAPI", "Flask", "Node.js", "Celery", "LangChain"],
-  "frontend"   : ["React", "Tailwind CSS", "TypeScript"],
-  "databases"  : ["PostgreSQL + pgvector", "MySQL", "MongoDB", "Redis"],
-  "ai_ml"      : ["Ollama / Llama 3.1", "BM25", "Dense Retrieval", "RRF", "OCR", "NLP"],
-  "devops"     : ["Docker", "Jenkins", "AWS EC2/S3", "GitHub Actions", "Nginx"],
-  "monitoring" : ["Grafana", "Structured logging", "Health-check endpoints"]
+  "languages"  : ["Python", "Java", "JavaScript", "TypeScript", "C++", "C", "SQL", "Bash", "HTML5", "CSS3"],
+  "backend"    : ["FastAPI", "Flask", "Node.js", "Express", "Celery", "LangChain", "Pydantic"],
+  "frontend"   : ["React", "Next.js", "Tailwind CSS", "TypeScript"],
+  "databases"  : ["PostgreSQL + pgvector", "MySQL", "MongoDB", "Redis", "SQLite"],
+  "ai_ml"      : ["Ollama / Llama 3.1", "BM25", "Dense Retrieval", "RRF", "OCR", "NLP", "HuggingFace"],
+  "devops"     : ["Docker", "Jenkins", "AWS (EC2/S3)", "GitHub Actions", "Nginx", "Linux"],
+  "monitoring" : ["Grafana", "Structured logging", "Health-check endpoints"],
+  "tools"      : ["Git", "GitHub", "Postman", "VS Code", "Jupyter"]
 }
 ```
 
 </div>
 
-<br/>
+---
+
+## `$ cat github_stats.md`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash&theme=dark&perline=5" />
+
+<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=6366F1" width="70%" alt="Streak"/>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,tailwind&theme=dark&perline=5" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,aws&theme=dark&perline=5" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,grafana&theme=dark&perline=5" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="96%" alt="Activity Graph"/>
+
 </div>
 
 ---
@@ -332,40 +346,10 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 ---
 
-## `$ cat github_stats.md`
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<a href="https://github.com/ChauhanDivyanshu">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChauhanDivyanshu&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=6366F1&text_color=CBD5E1&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/ChauhanDivyanshu">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChauhanDivyanshu&layout=compact&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ChauhanDivyanshu&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=6366F1" width="70%" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauhanDivyanshu&bg_color=0F172A&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph" width="96%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## `$ ./snake --watch`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img width="100%" alt="contribution snake"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -388,16 +372,26 @@ Feb 2024  feat: DevOps Intern @ AR Electricals
 
 <div align="center">
 
+### 🤝 Let's Build Something Together
+
 **Open for:** &nbsp; Backend Architecture &nbsp;·&nbsp; RAG & LLM Systems &nbsp;·&nbsp; AI/ML Consulting &nbsp;·&nbsp; Open-Source Collab
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshu-chauhan-resume.netlify.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshuchauhan)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshuchauhan1200@gmail.com)&nbsp;
-[![VerifyLayer AI](https://img.shields.io/badge/VerifyLayer_AI-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://verifylayer-ai.vercel.app/)
+<a href="https://divyanshu-chauhan-resume.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/iamdivyanshuchauhan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:divyanshuchauhan1200@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://verifylayer-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/VerifyLayer_AI-F59E0B?style=for-the-badge&logo=shield&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ChauhanDivyanshu&style=flat-square&color=6366F1&label=profile+views" alt="profile views"/>
 
